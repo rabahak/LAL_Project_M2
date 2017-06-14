@@ -1,0 +1,3324 @@
+event:0 
+event:100 
+event:200 
+event:300 
+******************************************************************************
+*Tree    :T         : Calo sim root tree                                     *
+*Entries :      400 : Total =           19365 bytes  File  Size =       6232 *
+*        :          : Tree compression factor =   2.93                       *
+******************************************************************************
+*Br    0 :event     : Event                                                  *
+*Entries :      400 : Total  Size=      15044 bytes  File Size  =       4962 *
+*Baskets :        2 : Basket Size=      16000 bytes  Compression=   2.93     *
+*............................................................................*
+*Br    1 :TRefTable : List of branch numbers with referenced objects         *
+*Entries :      400 : Total  Size=       3802 bytes  One basket in memory    *
+*Baskets :        0 : Basket Size=      32000 bytes  Compression=   1.00     *
+*............................................................................*
+(0, 0, 0)
+cellAddress1 is 0
+(1, 1, 0)
+cellAddress2 is 1
+(20, 20, 1)
+f_max = 1.34425
+nb_counts = 0
+nb_counts = 54
+nb_counts = 266
+nb_counts = 578
+nb_counts = 779
+nb_counts = 953
+nb_counts = 1000
+nb_counts = 974
+nb_counts = 890
+nb_counts = 766
+nb_counts = 618
+nb_counts = 517
+nb_counts = 405
+nb_counts = 341
+nb_counts = 222
+nb_counts = 174
+nb_counts = 128
+nb_counts = 85
+nb_counts = 66
+nb_counts = 42
+nb_counts = 37
+nb_counts = 26
+nb_counts = 17
+nb_counts = 13
+nb_counts = 7
+nb_counts = 8
+nb_counts = 3
+nb_counts = 4
+nb_counts = 1
+nb_counts = 4
+nb_counts = 1
+nb_counts = 0
+nb_counts = 0
+nb_counts = 1
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 1
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+nb_counts = 0
+Key: (0, 0, 0)
+Energy: 0
+Key: (0, 1, 0)
+Energy: 0
+Key: (0, 2, 0)
+Energy: 0
+Key: (0, 3, 0)
+Energy: 0
+Key: (0, 4, 0)
+Energy: 0
+Key: (0, 5, 0)
+Energy: 0
+Key: (0, 6, 0)
+Energy: 0
+Key: (0, 7, 0)
+Energy: 0
+Key: (0, 8, 0)
+Energy: 0
+Key: (0, 9, 0)
+Energy: 0
+Key: (0, 10, 0)
+Energy: 0
+Key: (0, 11, 0)
+Energy: 0
+Key: (0, 12, 0)
+Energy: 0
+Key: (0, 13, 0)
+Energy: 0
+Key: (0, 14, 0)
+Energy: 0
+Key: (0, 15, 0)
+Energy: 0
+Key: (0, 16, 0)
+Energy: 0
+Key: (0, 17, 0)
+Energy: 0
+Key: (0, 18, 0)
+Energy: 0
+Key: (0, 19, 0)
+Energy: 0
+Key: (0, 20, 0)
+Energy: 0
+Key: (0, 21, 0)
+Energy: 0
+Key: (0, 22, 0)
+Energy: 0
+Key: (0, 23, 0)
+Energy: 0
+Key: (0, 24, 0)
+Energy: 0
+Key: (0, 25, 0)
+Energy: 0
+Key: (0, 26, 0)
+Energy: 0
+Key: (0, 27, 0)
+Energy: 0
+Key: (0, 28, 0)
+Energy: 0
+Key: (0, 29, 0)
+Energy: 0
+Key: (0, 30, 0)
+Energy: 0
+Key: (0, 31, 0)
+Energy: 0
+Key: (0, 32, 0)
+Energy: 0
+Key: (0, 33, 0)
+Energy: 0
+Key: (0, 34, 0)
+Energy: 0
+Key: (0, 35, 0)
+Energy: 0
+Key: (0, 36, 0)
+Energy: 0
+Key: (0, 37, 0)
+Energy: 0
+Key: (0, 38, 0)
+Energy: 0
+Key: (0, 39, 0)
+Energy: 0
+Key: (1, 0, 0)
+Energy: 0
+Key: (1, 1, 0)
+Energy: 0
+Key: (1, 2, 0)
+Energy: 0
+Key: (1, 3, 0)
+Energy: 0
+Key: (1, 4, 0)
+Energy: 0
+Key: (1, 5, 0)
+Energy: 0
+Key: (1, 6, 0)
+Energy: 0
+Key: (1, 7, 0)
+Energy: 0
+Key: (1, 8, 0)
+Energy: 0
+Key: (1, 9, 0)
+Energy: 0
+Key: (1, 10, 0)
+Energy: 0
+Key: (1, 11, 0)
+Energy: 0
+Key: (1, 12, 0)
+Energy: 0
+Key: (1, 13, 0)
+Energy: 0
+Key: (1, 14, 0)
+Energy: 0
+Key: (1, 15, 0)
+Energy: 0
+Key: (1, 16, 0)
+Energy: 0
+Key: (1, 17, 0)
+Energy: 0
+Key: (1, 18, 0)
+Energy: 0
+Key: (1, 19, 0)
+Energy: 0
+Key: (1, 20, 0)
+Energy: 0
+Key: (1, 21, 0)
+Energy: 0
+Key: (1, 22, 0)
+Energy: 0
+Key: (1, 23, 0)
+Energy: 0
+Key: (1, 24, 0)
+Energy: 0
+Key: (1, 25, 0)
+Energy: 0
+Key: (1, 26, 0)
+Energy: 0
+Key: (1, 27, 0)
+Energy: 0
+Key: (1, 28, 0)
+Energy: 0
+Key: (1, 29, 0)
+Energy: 0
+Key: (1, 30, 0)
+Energy: 0
+Key: (1, 31, 0)
+Energy: 0
+Key: (1, 32, 0)
+Energy: 0
+Key: (1, 33, 0)
+Energy: 0
+Key: (1, 34, 0)
+Energy: 0
+Key: (1, 35, 0)
+Energy: 0
+Key: (1, 36, 0)
+Energy: 0
+Key: (1, 37, 0)
+Energy: 0
+Key: (1, 38, 0)
+Energy: 0
+Key: (1, 39, 0)
+Energy: 0
+Key: (2, 0, 0)
+Energy: 0
+Key: (2, 1, 0)
+Energy: 0
+Key: (2, 2, 0)
+Energy: 0
+Key: (2, 3, 0)
+Energy: 0
+Key: (2, 4, 0)
+Energy: 0
+Key: (2, 5, 0)
+Energy: 0
+Key: (2, 6, 0)
+Energy: 0
+Key: (2, 7, 0)
+Energy: 0
+Key: (2, 8, 0)
+Energy: 0
+Key: (2, 9, 0)
+Energy: 0
+Key: (2, 10, 0)
+Energy: 0
+Key: (2, 11, 0)
+Energy: 0
+Key: (2, 12, 0)
+Energy: 0
+Key: (2, 13, 0)
+Energy: 0
+Key: (2, 14, 0)
+Energy: 0
+Key: (2, 15, 0)
+Energy: 0
+Key: (2, 16, 0)
+Energy: 0
+Key: (2, 17, 0)
+Energy: 0
+Key: (2, 18, 0)
+Energy: 0
+Key: (2, 19, 0)
+Energy: 0
+Key: (2, 20, 0)
+Energy: 0
+Key: (2, 21, 0)
+Energy: 0
+Key: (2, 22, 0)
+Energy: 0
+Key: (2, 23, 0)
+Energy: 0
+Key: (2, 24, 0)
+Energy: 0
+Key: (2, 25, 0)
+Energy: 0
+Key: (2, 26, 0)
+Energy: 0
+Key: (2, 27, 0)
+Energy: 0
+Key: (2, 28, 0)
+Energy: 0
+Key: (2, 29, 0)
+Energy: 0
+Key: (2, 30, 0)
+Energy: 0
+Key: (2, 31, 0)
+Energy: 0
+Key: (2, 32, 0)
+Energy: 0
+Key: (2, 33, 0)
+Energy: 0
+Key: (2, 34, 0)
+Energy: 0
+Key: (2, 35, 0)
+Energy: 0
+Key: (2, 36, 0)
+Energy: 0
+Key: (2, 37, 0)
+Energy: 0
+Key: (2, 38, 0)
+Energy: 0
+Key: (2, 39, 0)
+Energy: 0
+Key: (3, 0, 0)
+Energy: 0
+Key: (3, 1, 0)
+Energy: 0
+Key: (3, 2, 0)
+Energy: 0
+Key: (3, 3, 0)
+Energy: 0
+Key: (3, 4, 0)
+Energy: 0
+Key: (3, 5, 0)
+Energy: 0
+Key: (3, 6, 0)
+Energy: 0
+Key: (3, 7, 0)
+Energy: 0
+Key: (3, 8, 0)
+Energy: 0
+Key: (3, 9, 0)
+Energy: 0
+Key: (3, 10, 0)
+Energy: 0
+Key: (3, 11, 0)
+Energy: 0
+Key: (3, 12, 0)
+Energy: 0
+Key: (3, 13, 0)
+Energy: 0
+Key: (3, 14, 0)
+Energy: 0
+Key: (3, 15, 0)
+Energy: 0
+Key: (3, 16, 0)
+Energy: 0
+Key: (3, 17, 0)
+Energy: 0
+Key: (3, 18, 0)
+Energy: 0
+Key: (3, 19, 0)
+Energy: 0
+Key: (3, 20, 0)
+Energy: 0
+Key: (3, 21, 0)
+Energy: 0
+Key: (3, 22, 0)
+Energy: 0
+Key: (3, 23, 0)
+Energy: 0
+Key: (3, 24, 0)
+Energy: 0
+Key: (3, 25, 0)
+Energy: 0
+Key: (3, 26, 0)
+Energy: 0
+Key: (3, 27, 0)
+Energy: 0
+Key: (3, 28, 0)
+Energy: 0
+Key: (3, 29, 0)
+Energy: 0
+Key: (3, 30, 0)
+Energy: 0
+Key: (3, 31, 0)
+Energy: 0
+Key: (3, 32, 0)
+Energy: 0
+Key: (3, 33, 0)
+Energy: 0
+Key: (3, 34, 0)
+Energy: 0
+Key: (3, 35, 0)
+Energy: 0
+Key: (3, 36, 0)
+Energy: 0
+Key: (3, 37, 0)
+Energy: 0
+Key: (3, 38, 0)
+Energy: 0
+Key: (3, 39, 0)
+Energy: 0
+Key: (4, 0, 0)
+Energy: 0
+Key: (4, 1, 0)
+Energy: 0
+Key: (4, 2, 0)
+Energy: 0
+Key: (4, 3, 0)
+Energy: 0
+Key: (4, 4, 0)
+Energy: 0
+Key: (4, 5, 0)
+Energy: 0
+Key: (4, 6, 0)
+Energy: 0
+Key: (4, 7, 0)
+Energy: 0
+Key: (4, 8, 0)
+Energy: 0
+Key: (4, 9, 0)
+Energy: 0
+Key: (4, 10, 0)
+Energy: 0
+Key: (4, 11, 0)
+Energy: 0
+Key: (4, 12, 0)
+Energy: 0
+Key: (4, 13, 0)
+Energy: 0
+Key: (4, 14, 0)
+Energy: 0
+Key: (4, 15, 0)
+Energy: 0
+Key: (4, 16, 0)
+Energy: 0
+Key: (4, 17, 0)
+Energy: 0
+Key: (4, 18, 0)
+Energy: 0
+Key: (4, 19, 0)
+Energy: 0
+Key: (4, 20, 0)
+Energy: 0
+Key: (4, 21, 0)
+Energy: 0
+Key: (4, 22, 0)
+Energy: 0
+Key: (4, 23, 0)
+Energy: 0
+Key: (4, 24, 0)
+Energy: 0
+Key: (4, 25, 0)
+Energy: 0
+Key: (4, 26, 0)
+Energy: 0
+Key: (4, 27, 0)
+Energy: 0
+Key: (4, 28, 0)
+Energy: 0
+Key: (4, 29, 0)
+Energy: 0
+Key: (4, 30, 0)
+Energy: 0
+Key: (4, 31, 0)
+Energy: 0
+Key: (4, 32, 0)
+Energy: 0
+Key: (4, 33, 0)
+Energy: 0
+Key: (4, 34, 0)
+Energy: 0
+Key: (4, 35, 0)
+Energy: 0
+Key: (4, 36, 0)
+Energy: 0
+Key: (4, 37, 0)
+Energy: 0
+Key: (4, 38, 0)
+Energy: 0
+Key: (4, 39, 0)
+Energy: 0
+Key: (5, 0, 0)
+Energy: 0
+Key: (5, 1, 0)
+Energy: 0
+Key: (5, 2, 0)
+Energy: 0
+Key: (5, 3, 0)
+Energy: 0
+Key: (5, 4, 0)
+Energy: 0
+Key: (5, 5, 0)
+Energy: 0
+Key: (5, 6, 0)
+Energy: 0
+Key: (5, 7, 0)
+Energy: 0
+Key: (5, 8, 0)
+Energy: 0
+Key: (5, 9, 0)
+Energy: 0
+Key: (5, 10, 0)
+Energy: 0
+Key: (5, 11, 0)
+Energy: 0
+Key: (5, 12, 0)
+Energy: 0
+Key: (5, 13, 0)
+Energy: 0
+Key: (5, 14, 0)
+Energy: 0
+Key: (5, 15, 0)
+Energy: 0
+Key: (5, 16, 0)
+Energy: 0
+Key: (5, 17, 0)
+Energy: 0
+Key: (5, 18, 0)
+Energy: 0
+Key: (5, 19, 0)
+Energy: 0
+Key: (5, 20, 0)
+Energy: 0
+Key: (5, 21, 0)
+Energy: 0
+Key: (5, 22, 0)
+Energy: 0
+Key: (5, 23, 0)
+Energy: 0
+Key: (5, 24, 0)
+Energy: 0
+Key: (5, 25, 0)
+Energy: 0
+Key: (5, 26, 0)
+Energy: 0
+Key: (5, 27, 0)
+Energy: 0
+Key: (5, 28, 0)
+Energy: 0
+Key: (5, 29, 0)
+Energy: 0
+Key: (5, 30, 0)
+Energy: 0
+Key: (5, 31, 0)
+Energy: 0
+Key: (5, 32, 0)
+Energy: 0
+Key: (5, 33, 0)
+Energy: 0
+Key: (5, 34, 0)
+Energy: 0
+Key: (5, 35, 0)
+Energy: 0
+Key: (5, 36, 0)
+Energy: 0
+Key: (5, 37, 0)
+Energy: 0
+Key: (5, 38, 0)
+Energy: 0
+Key: (5, 39, 0)
+Energy: 0
+Key: (6, 0, 0)
+Energy: 0
+Key: (6, 1, 0)
+Energy: 0
+Key: (6, 2, 0)
+Energy: 0
+Key: (6, 3, 0)
+Energy: 0
+Key: (6, 4, 0)
+Energy: 0
+Key: (6, 5, 0)
+Energy: 0
+Key: (6, 6, 0)
+Energy: 0
+Key: (6, 7, 0)
+Energy: 0
+Key: (6, 8, 0)
+Energy: 0
+Key: (6, 9, 0)
+Energy: 0
+Key: (6, 10, 0)
+Energy: 0
+Key: (6, 11, 0)
+Energy: 0
+Key: (6, 12, 0)
+Energy: 0
+Key: (6, 13, 0)
+Energy: 0
+Key: (6, 14, 0)
+Energy: 0
+Key: (6, 15, 0)
+Energy: 0
+Key: (6, 16, 0)
+Energy: 0
+Key: (6, 17, 0)
+Energy: 0
+Key: (6, 18, 0)
+Energy: 0
+Key: (6, 19, 0)
+Energy: 0
+Key: (6, 20, 0)
+Energy: 0
+Key: (6, 21, 0)
+Energy: 0
+Key: (6, 22, 0)
+Energy: 0
+Key: (6, 23, 0)
+Energy: 0
+Key: (6, 24, 0)
+Energy: 0
+Key: (6, 25, 0)
+Energy: 0
+Key: (6, 26, 0)
+Energy: 0
+Key: (6, 27, 0)
+Energy: 0
+Key: (6, 28, 0)
+Energy: 0
+Key: (6, 29, 0)
+Energy: 0
+Key: (6, 30, 0)
+Energy: 0
+Key: (6, 31, 0)
+Energy: 0
+Key: (6, 32, 0)
+Energy: 0
+Key: (6, 33, 0)
+Energy: 0
+Key: (6, 34, 0)
+Energy: 0
+Key: (6, 35, 0)
+Energy: 0
+Key: (6, 36, 0)
+Energy: 0
+Key: (6, 37, 0)
+Energy: 0
+Key: (6, 38, 0)
+Energy: 0
+Key: (6, 39, 0)
+Energy: 0
+Key: (7, 0, 0)
+Energy: 0
+Key: (7, 1, 0)
+Energy: 0
+Key: (7, 2, 0)
+Energy: 0
+Key: (7, 3, 0)
+Energy: 0
+Key: (7, 4, 0)
+Energy: 0
+Key: (7, 5, 0)
+Energy: 0
+Key: (7, 6, 0)
+Energy: 0
+Key: (7, 7, 0)
+Energy: 0
+Key: (7, 8, 0)
+Energy: 0
+Key: (7, 9, 0)
+Energy: 0
+Key: (7, 10, 0)
+Energy: 0
+Key: (7, 11, 0)
+Energy: 0
+Key: (7, 12, 0)
+Energy: 0
+Key: (7, 13, 0)
+Energy: 0
+Key: (7, 14, 0)
+Energy: 0
+Key: (7, 15, 0)
+Energy: 0
+Key: (7, 16, 0)
+Energy: 0
+Key: (7, 17, 0)
+Energy: 0
+Key: (7, 18, 0)
+Energy: 0
+Key: (7, 19, 0)
+Energy: 0
+Key: (7, 20, 0)
+Energy: 0
+Key: (7, 21, 0)
+Energy: 0
+Key: (7, 22, 0)
+Energy: 0
+Key: (7, 23, 0)
+Energy: 0
+Key: (7, 24, 0)
+Energy: 0
+Key: (7, 25, 0)
+Energy: 0
+Key: (7, 26, 0)
+Energy: 0
+Key: (7, 27, 0)
+Energy: 0
+Key: (7, 28, 0)
+Energy: 0
+Key: (7, 29, 0)
+Energy: 0
+Key: (7, 30, 0)
+Energy: 0
+Key: (7, 31, 0)
+Energy: 0
+Key: (7, 32, 0)
+Energy: 0
+Key: (7, 33, 0)
+Energy: 0
+Key: (7, 34, 0)
+Energy: 0
+Key: (7, 35, 0)
+Energy: 0
+Key: (7, 36, 0)
+Energy: 0
+Key: (7, 37, 0)
+Energy: 0
+Key: (7, 38, 0)
+Energy: 0
+Key: (7, 39, 0)
+Energy: 0
+Key: (8, 0, 0)
+Energy: 0
+Key: (8, 1, 0)
+Energy: 0
+Key: (8, 2, 0)
+Energy: 0
+Key: (8, 3, 0)
+Energy: 0
+Key: (8, 4, 0)
+Energy: 0
+Key: (8, 5, 0)
+Energy: 0
+Key: (8, 6, 0)
+Energy: 0
+Key: (8, 7, 0)
+Energy: 0
+Key: (8, 8, 0)
+Energy: 0
+Key: (8, 9, 0)
+Energy: 0
+Key: (8, 10, 0)
+Energy: 0
+Key: (8, 11, 0)
+Energy: 0
+Key: (8, 12, 0)
+Energy: 0
+Key: (8, 13, 0)
+Energy: 0
+Key: (8, 14, 0)
+Energy: 0
+Key: (8, 15, 0)
+Energy: 0
+Key: (8, 16, 0)
+Energy: 0
+Key: (8, 17, 0)
+Energy: 0
+Key: (8, 18, 0)
+Energy: 0
+Key: (8, 19, 0)
+Energy: 0
+Key: (8, 20, 0)
+Energy: 0
+Key: (8, 21, 0)
+Energy: 0
+Key: (8, 22, 0)
+Energy: 0
+Key: (8, 23, 0)
+Energy: 0
+Key: (8, 24, 0)
+Energy: 0
+Key: (8, 25, 0)
+Energy: 0
+Key: (8, 26, 0)
+Energy: 0
+Key: (8, 27, 0)
+Energy: 0
+Key: (8, 28, 0)
+Energy: 0
+Key: (8, 29, 0)
+Energy: 0
+Key: (8, 30, 0)
+Energy: 0
+Key: (8, 31, 0)
+Energy: 0
+Key: (8, 32, 0)
+Energy: 0
+Key: (8, 33, 0)
+Energy: 0
+Key: (8, 34, 0)
+Energy: 0
+Key: (8, 35, 0)
+Energy: 0
+Key: (8, 36, 0)
+Energy: 0
+Key: (8, 37, 0)
+Energy: 0
+Key: (8, 38, 0)
+Energy: 0
+Key: (8, 39, 0)
+Energy: 0
+Key: (9, 0, 0)
+Energy: 0
+Key: (9, 1, 0)
+Energy: 0
+Key: (9, 2, 0)
+Energy: 0
+Key: (9, 3, 0)
+Energy: 0
+Key: (9, 4, 0)
+Energy: 0
+Key: (9, 5, 0)
+Energy: 0
+Key: (9, 6, 0)
+Energy: 0
+Key: (9, 7, 0)
+Energy: 0
+Key: (9, 8, 0)
+Energy: 0
+Key: (9, 9, 0)
+Energy: 0
+Key: (9, 10, 0)
+Energy: 0
+Key: (9, 11, 0)
+Energy: 0
+Key: (9, 12, 0)
+Energy: 0
+Key: (9, 13, 0)
+Energy: 0
+Key: (9, 14, 0)
+Energy: 0
+Key: (9, 15, 0)
+Energy: 0
+Key: (9, 16, 0)
+Energy: 0
+Key: (9, 17, 0)
+Energy: 0
+Key: (9, 18, 0)
+Energy: 0
+Key: (9, 19, 0)
+Energy: 0
+Key: (9, 20, 0)
+Energy: 0
+Key: (9, 21, 0)
+Energy: 0
+Key: (9, 22, 0)
+Energy: 0
+Key: (9, 23, 0)
+Energy: 0
+Key: (9, 24, 0)
+Energy: 0
+Key: (9, 25, 0)
+Energy: 0
+Key: (9, 26, 0)
+Energy: 0
+Key: (9, 27, 0)
+Energy: 0
+Key: (9, 28, 0)
+Energy: 0
+Key: (9, 29, 0)
+Energy: 0
+Key: (9, 30, 0)
+Energy: 0
+Key: (9, 31, 0)
+Energy: 0
+Key: (9, 32, 0)
+Energy: 0
+Key: (9, 33, 0)
+Energy: 0
+Key: (9, 34, 0)
+Energy: 0
+Key: (9, 35, 0)
+Energy: 0
+Key: (9, 36, 0)
+Energy: 0
+Key: (9, 37, 0)
+Energy: 0
+Key: (9, 38, 0)
+Energy: 0
+Key: (9, 39, 0)
+Energy: 0
+Key: (10, 0, 0)
+Energy: 0
+Key: (10, 1, 0)
+Energy: 0
+Key: (10, 2, 0)
+Energy: 0
+Key: (10, 3, 0)
+Energy: 0
+Key: (10, 4, 0)
+Energy: 0
+Key: (10, 5, 0)
+Energy: 0
+Key: (10, 6, 0)
+Energy: 0
+Key: (10, 7, 0)
+Energy: 0
+Key: (10, 8, 0)
+Energy: 0
+Key: (10, 9, 0)
+Energy: 0
+Key: (10, 10, 0)
+Energy: 0
+Key: (10, 11, 0)
+Energy: 0
+Key: (10, 12, 0)
+Energy: 0
+Key: (10, 13, 0)
+Energy: 0
+Key: (10, 14, 0)
+Energy: 0
+Key: (10, 15, 0)
+Energy: 0
+Key: (10, 16, 0)
+Energy: 0
+Key: (10, 17, 0)
+Energy: 0
+Key: (10, 18, 0)
+Energy: 0
+Key: (10, 19, 0)
+Energy: 0
+Key: (10, 20, 0)
+Energy: 0
+Key: (10, 21, 0)
+Energy: 0
+Key: (10, 22, 0)
+Energy: 0
+Key: (10, 23, 0)
+Energy: 0
+Key: (10, 24, 0)
+Energy: 0
+Key: (10, 25, 0)
+Energy: 0
+Key: (10, 26, 0)
+Energy: 0
+Key: (10, 27, 0)
+Energy: 0
+Key: (10, 28, 0)
+Energy: 0
+Key: (10, 29, 0)
+Energy: 0
+Key: (10, 30, 0)
+Energy: 0
+Key: (10, 31, 0)
+Energy: 0
+Key: (10, 32, 0)
+Energy: 0
+Key: (10, 33, 0)
+Energy: 0
+Key: (10, 34, 0)
+Energy: 0
+Key: (10, 35, 0)
+Energy: 0
+Key: (10, 36, 0)
+Energy: 0
+Key: (10, 37, 0)
+Energy: 0
+Key: (10, 38, 0)
+Energy: 0
+Key: (10, 39, 0)
+Energy: 0
+Key: (11, 0, 0)
+Energy: 0
+Key: (11, 1, 0)
+Energy: 0
+Key: (11, 2, 0)
+Energy: 0
+Key: (11, 3, 0)
+Energy: 0
+Key: (11, 4, 0)
+Energy: 0
+Key: (11, 5, 0)
+Energy: 0
+Key: (11, 6, 0)
+Energy: 0
+Key: (11, 7, 0)
+Energy: 0
+Key: (11, 8, 0)
+Energy: 0
+Key: (11, 9, 0)
+Energy: 0
+Key: (11, 10, 0)
+Energy: 0
+Key: (11, 11, 0)
+Energy: 0
+Key: (11, 12, 0)
+Energy: 0
+Key: (11, 13, 0)
+Energy: 0
+Key: (11, 14, 0)
+Energy: 0
+Key: (11, 15, 0)
+Energy: 0
+Key: (11, 16, 0)
+Energy: 0
+Key: (11, 17, 0)
+Energy: 0
+Key: (11, 18, 0)
+Energy: 0
+Key: (11, 19, 0)
+Energy: 0
+Key: (11, 20, 0)
+Energy: 0
+Key: (11, 21, 0)
+Energy: 0
+Key: (11, 22, 0)
+Energy: 0
+Key: (11, 23, 0)
+Energy: 0
+Key: (11, 24, 0)
+Energy: 0
+Key: (11, 25, 0)
+Energy: 0
+Key: (11, 26, 0)
+Energy: 0
+Key: (11, 27, 0)
+Energy: 0
+Key: (11, 28, 0)
+Energy: 0
+Key: (11, 29, 0)
+Energy: 0
+Key: (11, 30, 0)
+Energy: 0
+Key: (11, 31, 0)
+Energy: 0
+Key: (11, 32, 0)
+Energy: 0
+Key: (11, 33, 0)
+Energy: 0
+Key: (11, 34, 0)
+Energy: 0
+Key: (11, 35, 0)
+Energy: 0
+Key: (11, 36, 0)
+Energy: 0
+Key: (11, 37, 0)
+Energy: 0
+Key: (11, 38, 0)
+Energy: 0
+Key: (11, 39, 0)
+Energy: 0
+Key: (12, 0, 0)
+Energy: 0
+Key: (12, 1, 0)
+Energy: 0
+Key: (12, 2, 0)
+Energy: 0
+Key: (12, 3, 0)
+Energy: 0
+Key: (12, 4, 0)
+Energy: 0
+Key: (12, 5, 0)
+Energy: 0
+Key: (12, 6, 0)
+Energy: 0
+Key: (12, 7, 0)
+Energy: 0
+Key: (12, 8, 0)
+Energy: 0
+Key: (12, 9, 0)
+Energy: 0
+Key: (12, 10, 0)
+Energy: 0
+Key: (12, 11, 0)
+Energy: 0
+Key: (12, 12, 0)
+Energy: 0
+Key: (12, 13, 0)
+Energy: 0
+Key: (12, 14, 0)
+Energy: 0
+Key: (12, 15, 0)
+Energy: 0
+Key: (12, 16, 0)
+Energy: 0
+Key: (12, 17, 0)
+Energy: 0
+Key: (12, 18, 0)
+Energy: 0
+Key: (12, 19, 0)
+Energy: 0
+Key: (12, 20, 0)
+Energy: 0
+Key: (12, 21, 0)
+Energy: 0
+Key: (12, 22, 0)
+Energy: 0
+Key: (12, 23, 0)
+Energy: 0
+Key: (12, 24, 0)
+Energy: 0
+Key: (12, 25, 0)
+Energy: 0
+Key: (12, 26, 0)
+Energy: 0
+Key: (12, 27, 0)
+Energy: 0
+Key: (12, 28, 0)
+Energy: 0
+Key: (12, 29, 0)
+Energy: 0
+Key: (12, 30, 0)
+Energy: 0
+Key: (12, 31, 0)
+Energy: 0
+Key: (12, 32, 0)
+Energy: 0
+Key: (12, 33, 0)
+Energy: 0
+Key: (12, 34, 0)
+Energy: 0
+Key: (12, 35, 0)
+Energy: 0
+Key: (12, 36, 0)
+Energy: 0
+Key: (12, 37, 0)
+Energy: 0
+Key: (12, 38, 0)
+Energy: 0
+Key: (12, 39, 0)
+Energy: 0
+Key: (13, 0, 0)
+Energy: 0
+Key: (13, 1, 0)
+Energy: 0
+Key: (13, 2, 0)
+Energy: 0
+Key: (13, 3, 0)
+Energy: 0
+Key: (13, 4, 0)
+Energy: 0
+Key: (13, 5, 0)
+Energy: 0
+Key: (13, 6, 0)
+Energy: 0
+Key: (13, 7, 0)
+Energy: 0
+Key: (13, 8, 0)
+Energy: 0
+Key: (13, 9, 0)
+Energy: 0
+Key: (13, 10, 0)
+Energy: 0
+Key: (13, 11, 0)
+Energy: 0
+Key: (13, 12, 0)
+Energy: 0
+Key: (13, 13, 0)
+Energy: 0
+Key: (13, 14, 0)
+Energy: 0
+Key: (13, 15, 0)
+Energy: 0
+Key: (13, 16, 0)
+Energy: 0
+Key: (13, 17, 0)
+Energy: 0
+Key: (13, 18, 0)
+Energy: 0
+Key: (13, 19, 0)
+Energy: 0
+Key: (13, 20, 0)
+Energy: 0
+Key: (13, 21, 0)
+Energy: 0
+Key: (13, 22, 0)
+Energy: 0
+Key: (13, 23, 0)
+Energy: 0
+Key: (13, 24, 0)
+Energy: 0
+Key: (13, 25, 0)
+Energy: 0
+Key: (13, 26, 0)
+Energy: 0
+Key: (13, 27, 0)
+Energy: 0
+Key: (13, 28, 0)
+Energy: 0
+Key: (13, 29, 0)
+Energy: 0
+Key: (13, 30, 0)
+Energy: 0
+Key: (13, 31, 0)
+Energy: 0
+Key: (13, 32, 0)
+Energy: 0
+Key: (13, 33, 0)
+Energy: 0
+Key: (13, 34, 0)
+Energy: 0
+Key: (13, 35, 0)
+Energy: 0
+Key: (13, 36, 0)
+Energy: 0
+Key: (13, 37, 0)
+Energy: 0
+Key: (13, 38, 0)
+Energy: 0
+Key: (13, 39, 0)
+Energy: 0
+Key: (14, 0, 0)
+Energy: 0
+Key: (14, 1, 0)
+Energy: 0
+Key: (14, 2, 0)
+Energy: 0
+Key: (14, 3, 0)
+Energy: 0
+Key: (14, 4, 0)
+Energy: 0
+Key: (14, 5, 0)
+Energy: 0
+Key: (14, 6, 0)
+Energy: 0
+Key: (14, 7, 0)
+Energy: 0
+Key: (14, 8, 0)
+Energy: 0
+Key: (14, 9, 0)
+Energy: 0
+Key: (14, 10, 0)
+Energy: 0
+Key: (14, 11, 0)
+Energy: 0
+Key: (14, 12, 0)
+Energy: 0
+Key: (14, 13, 0)
+Energy: 0
+Key: (14, 14, 0)
+Energy: 0
+Key: (14, 15, 0)
+Energy: 0
+Key: (14, 16, 0)
+Energy: 0
+Key: (14, 17, 0)
+Energy: 0
+Key: (14, 18, 0)
+Energy: 0
+Key: (14, 19, 0)
+Energy: 0
+Key: (14, 20, 0)
+Energy: 0
+Key: (14, 21, 0)
+Energy: 0
+Key: (14, 22, 0)
+Energy: 0
+Key: (14, 23, 0)
+Energy: 0
+Key: (14, 24, 0)
+Energy: 0
+Key: (14, 25, 0)
+Energy: 0
+Key: (14, 26, 0)
+Energy: 0
+Key: (14, 27, 0)
+Energy: 0
+Key: (14, 28, 0)
+Energy: 0
+Key: (14, 29, 0)
+Energy: 0
+Key: (14, 30, 0)
+Energy: 0
+Key: (14, 31, 0)
+Energy: 0
+Key: (14, 32, 0)
+Energy: 0
+Key: (14, 33, 0)
+Energy: 0
+Key: (14, 34, 0)
+Energy: 0
+Key: (14, 35, 0)
+Energy: 0
+Key: (14, 36, 0)
+Energy: 0
+Key: (14, 37, 0)
+Energy: 0
+Key: (14, 38, 0)
+Energy: 0
+Key: (14, 39, 0)
+Energy: 0
+Key: (15, 0, 0)
+Energy: 0
+Key: (15, 1, 0)
+Energy: 0
+Key: (15, 2, 0)
+Energy: 0
+Key: (15, 3, 0)
+Energy: 0
+Key: (15, 4, 0)
+Energy: 0
+Key: (15, 5, 0)
+Energy: 0
+Key: (15, 6, 0)
+Energy: 0
+Key: (15, 7, 0)
+Energy: 0
+Key: (15, 8, 0)
+Energy: 0
+Key: (15, 9, 0)
+Energy: 0
+Key: (15, 10, 0)
+Energy: 0
+Key: (15, 11, 0)
+Energy: 0
+Key: (15, 12, 0)
+Energy: 0
+Key: (15, 13, 0)
+Energy: 0
+Key: (15, 14, 0)
+Energy: 0
+Key: (15, 15, 0)
+Energy: 0
+Key: (15, 16, 0)
+Energy: 0
+Key: (15, 17, 0)
+Energy: 0
+Key: (15, 18, 0)
+Energy: 0
+Key: (15, 19, 0)
+Energy: 0
+Key: (15, 20, 0)
+Energy: 0
+Key: (15, 21, 0)
+Energy: 0
+Key: (15, 22, 0)
+Energy: 0
+Key: (15, 23, 0)
+Energy: 0
+Key: (15, 24, 0)
+Energy: 0
+Key: (15, 25, 0)
+Energy: 0
+Key: (15, 26, 0)
+Energy: 0
+Key: (15, 27, 0)
+Energy: 0
+Key: (15, 28, 0)
+Energy: 0
+Key: (15, 29, 0)
+Energy: 0
+Key: (15, 30, 0)
+Energy: 0
+Key: (15, 31, 0)
+Energy: 0
+Key: (15, 32, 0)
+Energy: 0
+Key: (15, 33, 0)
+Energy: 0
+Key: (15, 34, 0)
+Energy: 0
+Key: (15, 35, 0)
+Energy: 0
+Key: (15, 36, 0)
+Energy: 0
+Key: (15, 37, 0)
+Energy: 0
+Key: (15, 38, 0)
+Energy: 0
+Key: (15, 39, 0)
+Energy: 0
+Key: (16, 0, 0)
+Energy: 0
+Key: (16, 1, 0)
+Energy: 0
+Key: (16, 2, 0)
+Energy: 0
+Key: (16, 3, 0)
+Energy: 0
+Key: (16, 4, 0)
+Energy: 0
+Key: (16, 5, 0)
+Energy: 0
+Key: (16, 6, 0)
+Energy: 0
+Key: (16, 7, 0)
+Energy: 0
+Key: (16, 8, 0)
+Energy: 0
+Key: (16, 9, 0)
+Energy: 0
+Key: (16, 10, 0)
+Energy: 0
+Key: (16, 11, 0)
+Energy: 0
+Key: (16, 12, 0)
+Energy: 0
+Key: (16, 13, 0)
+Energy: 0
+Key: (16, 14, 0)
+Energy: 0
+Key: (16, 15, 0)
+Energy: 0
+Key: (16, 16, 0)
+Energy: 0
+Key: (16, 17, 0)
+Energy: 0
+Key: (16, 18, 0)
+Energy: 0
+Key: (16, 19, 0)
+Energy: 0
+Key: (16, 20, 0)
+Energy: 0
+Key: (16, 21, 0)
+Energy: 0
+Key: (16, 22, 0)
+Energy: 0
+Key: (16, 23, 0)
+Energy: 0
+Key: (16, 24, 0)
+Energy: 0
+Key: (16, 25, 0)
+Energy: 0
+Key: (16, 26, 0)
+Energy: 0
+Key: (16, 27, 0)
+Energy: 0
+Key: (16, 28, 0)
+Energy: 0
+Key: (16, 29, 0)
+Energy: 0
+Key: (16, 30, 0)
+Energy: 0
+Key: (16, 31, 0)
+Energy: 0
+Key: (16, 32, 0)
+Energy: 0
+Key: (16, 33, 0)
+Energy: 0
+Key: (16, 34, 0)
+Energy: 0
+Key: (16, 35, 0)
+Energy: 0
+Key: (16, 36, 0)
+Energy: 0
+Key: (16, 37, 0)
+Energy: 0
+Key: (16, 38, 0)
+Energy: 0
+Key: (16, 39, 0)
+Energy: 0
+Key: (17, 0, 0)
+Energy: 0
+Key: (17, 1, 0)
+Energy: 0
+Key: (17, 2, 0)
+Energy: 0
+Key: (17, 3, 0)
+Energy: 0
+Key: (17, 4, 0)
+Energy: 0
+Key: (17, 5, 0)
+Energy: 0
+Key: (17, 6, 0)
+Energy: 0
+Key: (17, 7, 0)
+Energy: 0
+Key: (17, 8, 0)
+Energy: 0
+Key: (17, 9, 0)
+Energy: 0
+Key: (17, 10, 0)
+Energy: 0
+Key: (17, 11, 0)
+Energy: 0
+Key: (17, 12, 0)
+Energy: 0
+Key: (17, 13, 0)
+Energy: 0
+Key: (17, 14, 0)
+Energy: 0
+Key: (17, 15, 0)
+Energy: 0
+Key: (17, 16, 0)
+Energy: 0
+Key: (17, 17, 0)
+Energy: 0
+Key: (17, 18, 0)
+Energy: 0
+Key: (17, 19, 0)
+Energy: 0
+Key: (17, 20, 0)
+Energy: 0
+Key: (17, 21, 0)
+Energy: 0
+Key: (17, 22, 0)
+Energy: 0
+Key: (17, 23, 0)
+Energy: 0
+Key: (17, 24, 0)
+Energy: 0
+Key: (17, 25, 0)
+Energy: 0
+Key: (17, 26, 0)
+Energy: 0
+Key: (17, 27, 0)
+Energy: 0
+Key: (17, 28, 0)
+Energy: 0
+Key: (17, 29, 0)
+Energy: 0
+Key: (17, 30, 0)
+Energy: 0
+Key: (17, 31, 0)
+Energy: 0
+Key: (17, 32, 0)
+Energy: 0
+Key: (17, 33, 0)
+Energy: 0
+Key: (17, 34, 0)
+Energy: 0
+Key: (17, 35, 0)
+Energy: 0
+Key: (17, 36, 0)
+Energy: 0
+Key: (17, 37, 0)
+Energy: 0
+Key: (17, 38, 0)
+Energy: 0
+Key: (17, 39, 0)
+Energy: 0
+Key: (18, 0, 0)
+Energy: 0
+Key: (18, 1, 0)
+Energy: 0
+Key: (18, 2, 0)
+Energy: 0
+Key: (18, 3, 0)
+Energy: 0
+Key: (18, 4, 0)
+Energy: 0
+Key: (18, 5, 0)
+Energy: 0
+Key: (18, 6, 0)
+Energy: 0
+Key: (18, 7, 0)
+Energy: 0
+Key: (18, 8, 0)
+Energy: 0
+Key: (18, 9, 0)
+Energy: 0
+Key: (18, 10, 0)
+Energy: 0
+Key: (18, 11, 0)
+Energy: 0
+Key: (18, 12, 0)
+Energy: 0
+Key: (18, 13, 0)
+Energy: 0
+Key: (18, 14, 0)
+Energy: 0
+Key: (18, 15, 0)
+Energy: 0
+Key: (18, 16, 0)
+Energy: 0
+Key: (18, 17, 0)
+Energy: 0
+Key: (18, 18, 0)
+Energy: 0
+Key: (18, 19, 0)
+Energy: 0
+Key: (18, 20, 0)
+Energy: 0
+Key: (18, 21, 0)
+Energy: 0
+Key: (18, 22, 0)
+Energy: 0
+Key: (18, 23, 0)
+Energy: 0
+Key: (18, 24, 0)
+Energy: 0
+Key: (18, 25, 0)
+Energy: 0
+Key: (18, 26, 0)
+Energy: 0
+Key: (18, 27, 0)
+Energy: 0
+Key: (18, 28, 0)
+Energy: 0
+Key: (18, 29, 0)
+Energy: 0
+Key: (18, 30, 0)
+Energy: 0
+Key: (18, 31, 0)
+Energy: 0
+Key: (18, 32, 0)
+Energy: 0
+Key: (18, 33, 0)
+Energy: 0
+Key: (18, 34, 0)
+Energy: 0
+Key: (18, 35, 0)
+Energy: 0
+Key: (18, 36, 0)
+Energy: 0
+Key: (18, 37, 0)
+Energy: 0
+Key: (18, 38, 0)
+Energy: 0
+Key: (18, 39, 0)
+Energy: 0
+Key: (19, 0, 0)
+Energy: 0
+Key: (19, 1, 0)
+Energy: 0
+Key: (19, 2, 0)
+Energy: 0
+Key: (19, 3, 0)
+Energy: 0
+Key: (19, 4, 0)
+Energy: 0
+Key: (19, 5, 0)
+Energy: 0
+Key: (19, 6, 0)
+Energy: 0
+Key: (19, 7, 0)
+Energy: 0
+Key: (19, 8, 0)
+Energy: 0
+Key: (19, 9, 0)
+Energy: 0
+Key: (19, 10, 0)
+Energy: 0
+Key: (19, 11, 0)
+Energy: 0
+Key: (19, 12, 0)
+Energy: 0
+Key: (19, 13, 0)
+Energy: 0
+Key: (19, 14, 0)
+Energy: 0
+Key: (19, 15, 0)
+Energy: 0
+Key: (19, 16, 0)
+Energy: 0
+Key: (19, 17, 0)
+Energy: 0
+Key: (19, 18, 0)
+Energy: 0
+Key: (19, 19, 0)
+Energy: 0
+Key: (19, 20, 0)
+Energy: 0
+Key: (19, 21, 0)
+Energy: 0
+Key: (19, 22, 0)
+Energy: 0
+Key: (19, 23, 0)
+Energy: 0
+Key: (19, 24, 0)
+Energy: 0
+Key: (19, 25, 0)
+Energy: 0
+Key: (19, 26, 0)
+Energy: 0
+Key: (19, 27, 0)
+Energy: 0
+Key: (19, 28, 0)
+Energy: 0
+Key: (19, 29, 0)
+Energy: 0
+Key: (19, 30, 0)
+Energy: 0
+Key: (19, 31, 0)
+Energy: 0
+Key: (19, 32, 0)
+Energy: 0
+Key: (19, 33, 0)
+Energy: 0
+Key: (19, 34, 0)
+Energy: 0
+Key: (19, 35, 0)
+Energy: 0
+Key: (19, 36, 0)
+Energy: 0
+Key: (19, 37, 0)
+Energy: 0
+Key: (19, 38, 0)
+Energy: 0
+Key: (19, 39, 0)
+Energy: 0
+Key: (20, 0, 0)
+Energy: 0
+Key: (20, 1, 0)
+Energy: 0
+Key: (20, 2, 0)
+Energy: 0
+Key: (20, 3, 0)
+Energy: 0
+Key: (20, 4, 0)
+Energy: 0
+Key: (20, 5, 0)
+Energy: 0
+Key: (20, 6, 0)
+Energy: 0
+Key: (20, 7, 0)
+Energy: 0
+Key: (20, 8, 0)
+Energy: 0
+Key: (20, 9, 0)
+Energy: 0
+Key: (20, 10, 0)
+Energy: 0
+Key: (20, 11, 0)
+Energy: 0
+Key: (20, 12, 0)
+Energy: 0
+Key: (20, 13, 0)
+Energy: 0
+Key: (20, 14, 0)
+Energy: 0
+Key: (20, 15, 0)
+Energy: 0
+Key: (20, 16, 0)
+Energy: 0
+Key: (20, 17, 0)
+Energy: 0
+Key: (20, 18, 0)
+Energy: 0
+Key: (20, 19, 0)
+Energy: 0
+Key: (20, 20, 0)
+Energy: 0
+Key: (20, 21, 0)
+Energy: 0
+Key: (20, 22, 0)
+Energy: 0
+Key: (20, 23, 0)
+Energy: 0
+Key: (20, 24, 0)
+Energy: 0
+Key: (20, 25, 0)
+Energy: 0
+Key: (20, 26, 0)
+Energy: 0
+Key: (20, 27, 0)
+Energy: 0
+Key: (20, 28, 0)
+Energy: 0
+Key: (20, 29, 0)
+Energy: 0
+Key: (20, 30, 0)
+Energy: 0
+Key: (20, 31, 0)
+Energy: 0
+Key: (20, 32, 0)
+Energy: 0
+Key: (20, 33, 0)
+Energy: 0
+Key: (20, 34, 0)
+Energy: 0
+Key: (20, 35, 0)
+Energy: 0
+Key: (20, 36, 0)
+Energy: 0
+Key: (20, 37, 0)
+Energy: 0
+Key: (20, 38, 0)
+Energy: 0
+Key: (20, 39, 0)
+Energy: 0
+Key: (21, 0, 0)
+Energy: 0
+Key: (21, 1, 0)
+Energy: 0
+Key: (21, 2, 0)
+Energy: 0
+Key: (21, 3, 0)
+Energy: 0
+Key: (21, 4, 0)
+Energy: 0
+Key: (21, 5, 0)
+Energy: 0
+Key: (21, 6, 0)
+Energy: 0
+Key: (21, 7, 0)
+Energy: 0
+Key: (21, 8, 0)
+Energy: 0
+Key: (21, 9, 0)
+Energy: 0
+Key: (21, 10, 0)
+Energy: 0
+Key: (21, 11, 0)
+Energy: 0
+Key: (21, 12, 0)
+Energy: 0
+Key: (21, 13, 0)
+Energy: 0
+Key: (21, 14, 0)
+Energy: 0
+Key: (21, 15, 0)
+Energy: 0
+Key: (21, 16, 0)
+Energy: 0
+Key: (21, 17, 0)
+Energy: 0
+Key: (21, 18, 0)
+Energy: 0
+Key: (21, 19, 0)
+Energy: 0
+Key: (21, 20, 0)
+Energy: 0
+Key: (21, 21, 0)
+Energy: 0
+Key: (21, 22, 0)
+Energy: 0
+Key: (21, 23, 0)
+Energy: 0
+Key: (21, 24, 0)
+Energy: 0
+Key: (21, 25, 0)
+Energy: 0
+Key: (21, 26, 0)
+Energy: 0
+Key: (21, 27, 0)
+Energy: 0
+Key: (21, 28, 0)
+Energy: 0
+Key: (21, 29, 0)
+Energy: 0
+Key: (21, 30, 0)
+Energy: 0
+Key: (21, 31, 0)
+Energy: 0
+Key: (21, 32, 0)
+Energy: 0
+Key: (21, 33, 0)
+Energy: 0
+Key: (21, 34, 0)
+Energy: 0
+Key: (21, 35, 0)
+Energy: 0
+Key: (21, 36, 0)
+Energy: 0
+Key: (21, 37, 0)
+Energy: 0
+Key: (21, 38, 0)
+Energy: 0
+Key: (21, 39, 0)
+Energy: 0
+Key: (22, 0, 0)
+Energy: 0
+Key: (22, 1, 0)
+Energy: 0
+Key: (22, 2, 0)
+Energy: 0
+Key: (22, 3, 0)
+Energy: 0
+Key: (22, 4, 0)
+Energy: 0
+Key: (22, 5, 0)
+Energy: 0
+Key: (22, 6, 0)
+Energy: 0
+Key: (22, 7, 0)
+Energy: 0
+Key: (22, 8, 0)
+Energy: 0
+Key: (22, 9, 0)
+Energy: 0
+Key: (22, 10, 0)
+Energy: 0
+Key: (22, 11, 0)
+Energy: 0
+Key: (22, 12, 0)
+Energy: 0
+Key: (22, 13, 0)
+Energy: 0
+Key: (22, 14, 0)
+Energy: 0
+Key: (22, 15, 0)
+Energy: 0
+Key: (22, 16, 0)
+Energy: 0
+Key: (22, 17, 0)
+Energy: 0
+Key: (22, 18, 0)
+Energy: 0
+Key: (22, 19, 0)
+Energy: 0
+Key: (22, 20, 0)
+Energy: 0
+Key: (22, 21, 0)
+Energy: 0
+Key: (22, 22, 0)
+Energy: 0
+Key: (22, 23, 0)
+Energy: 0
+Key: (22, 24, 0)
+Energy: 0
+Key: (22, 25, 0)
+Energy: 0
+Key: (22, 26, 0)
+Energy: 0
+Key: (22, 27, 0)
+Energy: 0
+Key: (22, 28, 0)
+Energy: 0
+Key: (22, 29, 0)
+Energy: 0
+Key: (22, 30, 0)
+Energy: 0
+Key: (22, 31, 0)
+Energy: 0
+Key: (22, 32, 0)
+Energy: 0
+Key: (22, 33, 0)
+Energy: 0
+Key: (22, 34, 0)
+Energy: 0
+Key: (22, 35, 0)
+Energy: 0
+Key: (22, 36, 0)
+Energy: 0
+Key: (22, 37, 0)
+Energy: 0
+Key: (22, 38, 0)
+Energy: 0
+Key: (22, 39, 0)
+Energy: 0
+Key: (23, 0, 0)
+Energy: 0
+Key: (23, 1, 0)
+Energy: 0
+Key: (23, 2, 0)
+Energy: 0
+Key: (23, 3, 0)
+Energy: 0
+Key: (23, 4, 0)
+Energy: 0
+Key: (23, 5, 0)
+Energy: 0
+Key: (23, 6, 0)
+Energy: 0
+Key: (23, 7, 0)
+Energy: 0
+Key: (23, 8, 0)
+Energy: 0
+Key: (23, 9, 0)
+Energy: 0
+Key: (23, 10, 0)
+Energy: 0
+Key: (23, 11, 0)
+Energy: 0
+Key: (23, 12, 0)
+Energy: 0
+Key: (23, 13, 0)
+Energy: 0
+Key: (23, 14, 0)
+Energy: 0
+Key: (23, 15, 0)
+Energy: 0
+Key: (23, 16, 0)
+Energy: 0
+Key: (23, 17, 0)
+Energy: 0
+Key: (23, 18, 0)
+Energy: 0
+Key: (23, 19, 0)
+Energy: 0
+Key: (23, 20, 0)
+Energy: 0
+Key: (23, 21, 0)
+Energy: 0
+Key: (23, 22, 0)
+Energy: 0
+Key: (23, 23, 0)
+Energy: 0
+Key: (23, 24, 0)
+Energy: 0
+Key: (23, 25, 0)
+Energy: 0
+Key: (23, 26, 0)
+Energy: 0
+Key: (23, 27, 0)
+Energy: 0
+Key: (23, 28, 0)
+Energy: 0
+Key: (23, 29, 0)
+Energy: 0
+Key: (23, 30, 0)
+Energy: 0
+Key: (23, 31, 0)
+Energy: 0
+Key: (23, 32, 0)
+Energy: 0
+Key: (23, 33, 0)
+Energy: 0
+Key: (23, 34, 0)
+Energy: 0
+Key: (23, 35, 0)
+Energy: 0
+Key: (23, 36, 0)
+Energy: 0
+Key: (23, 37, 0)
+Energy: 0
+Key: (23, 38, 0)
+Energy: 0
+Key: (23, 39, 0)
+Energy: 0
+Key: (24, 0, 0)
+Energy: 0
+Key: (24, 1, 0)
+Energy: 0
+Key: (24, 2, 0)
+Energy: 0
+Key: (24, 3, 0)
+Energy: 0
+Key: (24, 4, 0)
+Energy: 0
+Key: (24, 5, 0)
+Energy: 0
+Key: (24, 6, 0)
+Energy: 0
+Key: (24, 7, 0)
+Energy: 0
+Key: (24, 8, 0)
+Energy: 0
+Key: (24, 9, 0)
+Energy: 0
+Key: (24, 10, 0)
+Energy: 0
+Key: (24, 11, 0)
+Energy: 0
+Key: (24, 12, 0)
+Energy: 0
+Key: (24, 13, 0)
+Energy: 0
+Key: (24, 14, 0)
+Energy: 0
+Key: (24, 15, 0)
+Energy: 0
+Key: (24, 16, 0)
+Energy: 0
+Key: (24, 17, 0)
+Energy: 0
+Key: (24, 18, 0)
+Energy: 0
+Key: (24, 19, 0)
+Energy: 0
+Key: (24, 20, 0)
+Energy: 0
+Key: (24, 21, 0)
+Energy: 0
+Key: (24, 22, 0)
+Energy: 0
+Key: (24, 23, 0)
+Energy: 0
+Key: (24, 24, 0)
+Energy: 0
+Key: (24, 25, 0)
+Energy: 0
+Key: (24, 26, 0)
+Energy: 0
+Key: (24, 27, 0)
+Energy: 0
+Key: (24, 28, 0)
+Energy: 0
+Key: (24, 29, 0)
+Energy: 0
+Key: (24, 30, 0)
+Energy: 0
+Key: (24, 31, 0)
+Energy: 0
+Key: (24, 32, 0)
+Energy: 0
+Key: (24, 33, 0)
+Energy: 0
+Key: (24, 34, 0)
+Energy: 0
+Key: (24, 35, 0)
+Energy: 0
+Key: (24, 36, 0)
+Energy: 0
+Key: (24, 37, 0)
+Energy: 0
+Key: (24, 38, 0)
+Energy: 0
+Key: (24, 39, 0)
+Energy: 0
+Key: (25, 0, 0)
+Energy: 0
+Key: (25, 1, 0)
+Energy: 0
+Key: (25, 2, 0)
+Energy: 0
+Key: (25, 3, 0)
+Energy: 0
+Key: (25, 4, 0)
+Energy: 0
+Key: (25, 5, 0)
+Energy: 0
+Key: (25, 6, 0)
+Energy: 0
+Key: (25, 7, 0)
+Energy: 0
+Key: (25, 8, 0)
+Energy: 0
+Key: (25, 9, 0)
+Energy: 0
+Key: (25, 10, 0)
+Energy: 0
+Key: (25, 11, 0)
+Energy: 0
+Key: (25, 12, 0)
+Energy: 0
+Key: (25, 13, 0)
+Energy: 0
+Key: (25, 14, 0)
+Energy: 0
+Key: (25, 15, 0)
+Energy: 0
+Key: (25, 16, 0)
+Energy: 0
+Key: (25, 17, 0)
+Energy: 0
+Key: (25, 18, 0)
+Energy: 0
+Key: (25, 19, 0)
+Energy: 0
+Key: (25, 20, 0)
+Energy: 0
+Key: (25, 21, 0)
+Energy: 0
+Key: (25, 22, 0)
+Energy: 0
+Key: (25, 23, 0)
+Energy: 0
+Key: (25, 24, 0)
+Energy: 0
+Key: (25, 25, 0)
+Energy: 0
+Key: (25, 26, 0)
+Energy: 0
+Key: (25, 27, 0)
+Energy: 0
+Key: (25, 28, 0)
+Energy: 0
+Key: (25, 29, 0)
+Energy: 0
+Key: (25, 30, 0)
+Energy: 0
+Key: (25, 31, 0)
+Energy: 0
+Key: (25, 32, 0)
+Energy: 0
+Key: (25, 33, 0)
+Energy: 0
+Key: (25, 34, 0)
+Energy: 0
+Key: (25, 35, 0)
+Energy: 0
+Key: (25, 36, 0)
+Energy: 0
+Key: (25, 37, 0)
+Energy: 0
+Key: (25, 38, 0)
+Energy: 0
+Key: (25, 39, 0)
+Energy: 0
+Key: (26, 0, 0)
+Energy: 0
+Key: (26, 1, 0)
+Energy: 0
+Key: (26, 2, 0)
+Energy: 0
+Key: (26, 3, 0)
+Energy: 0
+Key: (26, 4, 0)
+Energy: 0
+Key: (26, 5, 0)
+Energy: 0
+Key: (26, 6, 0)
+Energy: 0
+Key: (26, 7, 0)
+Energy: 0
+Key: (26, 8, 0)
+Energy: 0
+Key: (26, 9, 0)
+Energy: 0
+Key: (26, 10, 0)
+Energy: 0
+Key: (26, 11, 0)
+Energy: 0
+Key: (26, 12, 0)
+Energy: 0
+Key: (26, 13, 0)
+Energy: 0
+Key: (26, 14, 0)
+Energy: 0
+Key: (26, 15, 0)
+Energy: 0
+Key: (26, 16, 0)
+Energy: 0
+Key: (26, 17, 0)
+Energy: 0
+Key: (26, 18, 0)
+Energy: 0
+Key: (26, 19, 0)
+Energy: 0
+Key: (26, 20, 0)
+Energy: 0
+Key: (26, 21, 0)
+Energy: 0
+Key: (26, 22, 0)
+Energy: 0
+Key: (26, 23, 0)
+Energy: 0
+Key: (26, 24, 0)
+Energy: 0
+Key: (26, 25, 0)
+Energy: 0
+Key: (26, 26, 0)
+Energy: 0
+Key: (26, 27, 0)
+Energy: 0
+Key: (26, 28, 0)
+Energy: 0
+Key: (26, 29, 0)
+Energy: 0
+Key: (26, 30, 0)
+Energy: 0
+Key: (26, 31, 0)
+Energy: 0
+Key: (26, 32, 0)
+Energy: 0
+Key: (26, 33, 0)
+Energy: 0
+Key: (26, 34, 0)
+Energy: 0
+Key: (26, 35, 0)
+Energy: 0
+Key: (26, 36, 0)
+Energy: 0
+Key: (26, 37, 0)
+Energy: 0
+Key: (26, 38, 0)
+Energy: 0
+Key: (26, 39, 0)
+Energy: 0
+Key: (27, 0, 0)
+Energy: 0
+Key: (27, 1, 0)
+Energy: 0
+Key: (27, 2, 0)
+Energy: 0
+Key: (27, 3, 0)
+Energy: 0
+Key: (27, 4, 0)
+Energy: 0
+Key: (27, 5, 0)
+Energy: 0
+Key: (27, 6, 0)
+Energy: 0
+Key: (27, 7, 0)
+Energy: 0
+Key: (27, 8, 0)
+Energy: 0
+Key: (27, 9, 0)
+Energy: 0
+Key: (27, 10, 0)
+Energy: 0
+Key: (27, 11, 0)
+Energy: 0
+Key: (27, 12, 0)
+Energy: 0
+Key: (27, 13, 0)
+Energy: 0
+Key: (27, 14, 0)
+Energy: 0
+Key: (27, 15, 0)
+Energy: 0
+Key: (27, 16, 0)
+Energy: 0
+Key: (27, 17, 0)
+Energy: 0
+Key: (27, 18, 0)
+Energy: 0
+Key: (27, 19, 0)
+Energy: 0
+Key: (27, 20, 0)
+Energy: 0
+Key: (27, 21, 0)
+Energy: 0
+Key: (27, 22, 0)
+Energy: 0
+Key: (27, 23, 0)
+Energy: 0
+Key: (27, 24, 0)
+Energy: 0
+Key: (27, 25, 0)
+Energy: 0
+Key: (27, 26, 0)
+Energy: 0
+Key: (27, 27, 0)
+Energy: 0
+Key: (27, 28, 0)
+Energy: 0
+Key: (27, 29, 0)
+Energy: 0
+Key: (27, 30, 0)
+Energy: 0
+Key: (27, 31, 0)
+Energy: 0
+Key: (27, 32, 0)
+Energy: 0
+Key: (27, 33, 0)
+Energy: 0
+Key: (27, 34, 0)
+Energy: 0
+Key: (27, 35, 0)
+Energy: 0
+Key: (27, 36, 0)
+Energy: 0
+Key: (27, 37, 0)
+Energy: 0
+Key: (27, 38, 0)
+Energy: 0
+Key: (27, 39, 0)
+Energy: 0
+Key: (28, 0, 0)
+Energy: 0
+Key: (28, 1, 0)
+Energy: 0
+Key: (28, 2, 0)
+Energy: 0
+Key: (28, 3, 0)
+Energy: 0
+Key: (28, 4, 0)
+Energy: 0
+Key: (28, 5, 0)
+Energy: 0
+Key: (28, 6, 0)
+Energy: 0
+Key: (28, 7, 0)
+Energy: 0
+Key: (28, 8, 0)
+Energy: 0
+Key: (28, 9, 0)
+Energy: 0
+Key: (28, 10, 0)
+Energy: 0
+Key: (28, 11, 0)
+Energy: 0
+Key: (28, 12, 0)
+Energy: 0
+Key: (28, 13, 0)
+Energy: 0
+Key: (28, 14, 0)
+Energy: 0
+Key: (28, 15, 0)
+Energy: 0
+Key: (28, 16, 0)
+Energy: 0
+Key: (28, 17, 0)
+Energy: 0
+Key: (28, 18, 0)
+Energy: 0
+Key: (28, 19, 0)
+Energy: 0
+Key: (28, 20, 0)
+Energy: 0
+Key: (28, 21, 0)
+Energy: 0
+Key: (28, 22, 0)
+Energy: 0
+Key: (28, 23, 0)
+Energy: 0
+Key: (28, 24, 0)
+Energy: 0
+Key: (28, 25, 0)
+Energy: 0
+Key: (28, 26, 0)
+Energy: 0
+Key: (28, 27, 0)
+Energy: 0
+Key: (28, 28, 0)
+Energy: 0
+Key: (28, 29, 0)
+Energy: 0
+Key: (28, 30, 0)
+Energy: 0
+Key: (28, 31, 0)
+Energy: 0
+Key: (28, 32, 0)
+Energy: 0
+Key: (28, 33, 0)
+Energy: 0
+Key: (28, 34, 0)
+Energy: 0
+Key: (28, 35, 0)
+Energy: 0
+Key: (28, 36, 0)
+Energy: 0
+Key: (28, 37, 0)
+Energy: 0
+Key: (28, 38, 0)
+Energy: 0
+Key: (28, 39, 0)
+Energy: 0
+Key: (29, 0, 0)
+Energy: 0
+Key: (29, 1, 0)
+Energy: 0
+Key: (29, 2, 0)
+Energy: 0
+Key: (29, 3, 0)
+Energy: 0
+Key: (29, 4, 0)
+Energy: 0
+Key: (29, 5, 0)
+Energy: 0
+Key: (29, 6, 0)
+Energy: 0
+Key: (29, 7, 0)
+Energy: 0
+Key: (29, 8, 0)
+Energy: 0
+Key: (29, 9, 0)
+Energy: 0
+Key: (29, 10, 0)
+Energy: 0
+Key: (29, 11, 0)
+Energy: 0
+Key: (29, 12, 0)
+Energy: 0
+Key: (29, 13, 0)
+Energy: 0
+Key: (29, 14, 0)
+Energy: 0
+Key: (29, 15, 0)
+Energy: 0
+Key: (29, 16, 0)
+Energy: 0
+Key: (29, 17, 0)
+Energy: 0
+Key: (29, 18, 0)
+Energy: 0
+Key: (29, 19, 0)
+Energy: 0
+Key: (29, 20, 0)
+Energy: 0
+Key: (29, 21, 0)
+Energy: 0
+Key: (29, 22, 0)
+Energy: 0
+Key: (29, 23, 0)
+Energy: 0
+Key: (29, 24, 0)
+Energy: 0
+Key: (29, 25, 0)
+Energy: 0
+Key: (29, 26, 0)
+Energy: 0
+Key: (29, 27, 0)
+Energy: 0
+Key: (29, 28, 0)
+Energy: 0
+Key: (29, 29, 0)
+Energy: 0
+Key: (29, 30, 0)
+Energy: 0
+Key: (29, 31, 0)
+Energy: 0
+Key: (29, 32, 0)
+Energy: 0
+Key: (29, 33, 0)
+Energy: 0
+Key: (29, 34, 0)
+Energy: 0
+Key: (29, 35, 0)
+Energy: 0
+Key: (29, 36, 0)
+Energy: 0
+Key: (29, 37, 0)
+Energy: 0
+Key: (29, 38, 0)
+Energy: 0
+Key: (29, 39, 0)
+Energy: 0
+Key: (30, 0, 0)
+Energy: 0
+Key: (30, 1, 0)
+Energy: 0
+Key: (30, 2, 0)
+Energy: 0
+Key: (30, 3, 0)
+Energy: 0
+Key: (30, 4, 0)
+Energy: 0
+Key: (30, 5, 0)
+Energy: 0
+Key: (30, 6, 0)
+Energy: 0
+Key: (30, 7, 0)
+Energy: 0
+Key: (30, 8, 0)
+Energy: 0
+Key: (30, 9, 0)
+Energy: 0
+Key: (30, 10, 0)
+Energy: 0
+Key: (30, 11, 0)
+Energy: 0
+Key: (30, 12, 0)
+Energy: 0
+Key: (30, 13, 0)
+Energy: 0
+Key: (30, 14, 0)
+Energy: 0
+Key: (30, 15, 0)
+Energy: 0
+Key: (30, 16, 0)
+Energy: 0
+Key: (30, 17, 0)
+Energy: 0
+Key: (30, 18, 0)
+Energy: 0
+Key: (30, 19, 0)
+Energy: 0
+Key: (30, 20, 0)
+Energy: 0
+Key: (30, 21, 0)
+Energy: 0
+Key: (30, 22, 0)
+Energy: 0
+Key: (30, 23, 0)
+Energy: 0
+Key: (30, 24, 0)
+Energy: 0
+Key: (30, 25, 0)
+Energy: 0
+Key: (30, 26, 0)
+Energy: 0
+Key: (30, 27, 0)
+Energy: 0
+Key: (30, 28, 0)
+Energy: 0
+Key: (30, 29, 0)
+Energy: 0
+Key: (30, 30, 0)
+Energy: 0
+Key: (30, 31, 0)
+Energy: 0
+Key: (30, 32, 0)
+Energy: 0
+Key: (30, 33, 0)
+Energy: 0
+Key: (30, 34, 0)
+Energy: 0
+Key: (30, 35, 0)
+Energy: 0
+Key: (30, 36, 0)
+Energy: 0
+Key: (30, 37, 0)
+Energy: 0
+Key: (30, 38, 0)
+Energy: 0
+Key: (30, 39, 0)
+Energy: 0
+Key: (31, 0, 0)
+Energy: 0
+Key: (31, 1, 0)
+Energy: 0
+Key: (31, 2, 0)
+Energy: 0
+Key: (31, 3, 0)
+Energy: 0
+Key: (31, 4, 0)
+Energy: 0
+Key: (31, 5, 0)
+Energy: 0
+Key: (31, 6, 0)
+Energy: 0
+Key: (31, 7, 0)
+Energy: 0
+Key: (31, 8, 0)
+Energy: 0
+Key: (31, 9, 0)
+Energy: 0
+Key: (31, 10, 0)
+Energy: 0
+Key: (31, 11, 0)
+Energy: 0
+Key: (31, 12, 0)
+Energy: 0
+Key: (31, 13, 0)
+Energy: 0
+Key: (31, 14, 0)
+Energy: 0
+Key: (31, 15, 0)
+Energy: 0
+Key: (31, 16, 0)
+Energy: 0
+Key: (31, 17, 0)
+Energy: 0
+Key: (31, 18, 0)
+Energy: 0
+Key: (31, 19, 0)
+Energy: 0
+Key: (31, 20, 0)
+Energy: 0
+Key: (31, 21, 0)
+Energy: 0
+Key: (31, 22, 0)
+Energy: 0
+Key: (31, 23, 0)
+Energy: 0
+Key: (31, 24, 0)
+Energy: 0
+Key: (31, 25, 0)
+Energy: 0
+Key: (31, 26, 0)
+Energy: 0
+Key: (31, 27, 0)
+Energy: 0
+Key: (31, 28, 0)
+Energy: 0
+Key: (31, 29, 0)
+Energy: 0
+Key: (31, 30, 0)
+Energy: 0
+Key: (31, 31, 0)
+Energy: 0
+Key: (31, 32, 0)
+Energy: 0
+Key: (31, 33, 0)
+Energy: 0
+Key: (31, 34, 0)
+Energy: 0
+Key: (31, 35, 0)
+Energy: 0
+Key: (31, 36, 0)
+Energy: 0
+Key: (31, 37, 0)
+Energy: 0
+Key: (31, 38, 0)
+Energy: 0
+Key: (31, 39, 0)
+Energy: 0
+Key: (32, 0, 0)
+Energy: 0
+Key: (32, 1, 0)
+Energy: 0
+Key: (32, 2, 0)
+Energy: 0
+Key: (32, 3, 0)
+Energy: 0
+Key: (32, 4, 0)
+Energy: 0
+Key: (32, 5, 0)
+Energy: 0
+Key: (32, 6, 0)
+Energy: 0
+Key: (32, 7, 0)
+Energy: 0
+Key: (32, 8, 0)
+Energy: 0
+Key: (32, 9, 0)
+Energy: 0
+Key: (32, 10, 0)
+Energy: 0
+Key: (32, 11, 0)
+Energy: 0
+Key: (32, 12, 0)
+Energy: 0
+Key: (32, 13, 0)
+Energy: 0
+Key: (32, 14, 0)
+Energy: 0
+Key: (32, 15, 0)
+Energy: 0
+Key: (32, 16, 0)
+Energy: 0
+Key: (32, 17, 0)
+Energy: 0
+Key: (32, 18, 0)
+Energy: 0
+Key: (32, 19, 0)
+Energy: 0
+Key: (32, 20, 0)
+Energy: 0
+Key: (32, 21, 0)
+Energy: 0
+Key: (32, 22, 0)
+Energy: 0
+Key: (32, 23, 0)
+Energy: 0
+Key: (32, 24, 0)
+Energy: 0
+Key: (32, 25, 0)
+Energy: 0
+Key: (32, 26, 0)
+Energy: 0
+Key: (32, 27, 0)
+Energy: 0
+Key: (32, 28, 0)
+Energy: 0
+Key: (32, 29, 0)
+Energy: 0
+Key: (32, 30, 0)
+Energy: 0
+Key: (32, 31, 0)
+Energy: 0
+Key: (32, 32, 0)
+Energy: 0
+Key: (32, 33, 0)
+Energy: 0
+Key: (32, 34, 0)
+Energy: 0
+Key: (32, 35, 0)
+Energy: 0
+Key: (32, 36, 0)
+Energy: 0
+Key: (32, 37, 0)
+Energy: 0
+Key: (32, 38, 0)
+Energy: 0
+Key: (32, 39, 0)
+Energy: 0
+Key: (33, 0, 0)
+Energy: 0
+Key: (33, 1, 0)
+Energy: 0
+Key: (33, 2, 0)
+Energy: 0
+Key: (33, 3, 0)
+Energy: 0
+Key: (33, 4, 0)
+Energy: 0
+Key: (33, 5, 0)
+Energy: 0
+Key: (33, 6, 0)
+Energy: 0
+Key: (33, 7, 0)
+Energy: 0
+Key: (33, 8, 0)
+Energy: 0
+Key: (33, 9, 0)
+Energy: 0
+Key: (33, 10, 0)
+Energy: 0
+Key: (33, 11, 0)
+Energy: 0
+Key: (33, 12, 0)
+Energy: 0
+Key: (33, 13, 0)
+Energy: 0
+Key: (33, 14, 0)
+Energy: 0
+Key: (33, 15, 0)
+Energy: 0
+Key: (33, 16, 0)
+Energy: 0
+Key: (33, 17, 0)
+Energy: 0
+Key: (33, 18, 0)
+Energy: 0
+Key: (33, 19, 0)
+Energy: 0
+Key: (33, 20, 0)
+Energy: 0
+Key: (33, 21, 0)
+Energy: 0
+Key: (33, 22, 0)
+Energy: 0
+Key: (33, 23, 0)
+Energy: 0
+Key: (33, 24, 0)
+Energy: 0
+Key: (33, 25, 0)
+Energy: 0
+Key: (33, 26, 0)
+Energy: 0
+Key: (33, 27, 0)
+Energy: 0
+Key: (33, 28, 0)
+Energy: 0
+Key: (33, 29, 0)
+Energy: 0
+Key: (33, 30, 0)
+Energy: 0
+Key: (33, 31, 0)
+Energy: 0
+Key: (33, 32, 0)
+Energy: 0
+Key: (33, 33, 0)
+Energy: 0
+Key: (33, 34, 0)
+Energy: 0
+Key: (33, 35, 0)
+Energy: 0
+Key: (33, 36, 0)
+Energy: 0
+Key: (33, 37, 0)
+Energy: 0
+Key: (33, 38, 0)
+Energy: 0
+Key: (33, 39, 0)
+Energy: 0
+Key: (34, 0, 0)
+Energy: 0
+Key: (34, 1, 0)
+Energy: 0
+Key: (34, 2, 0)
+Energy: 0
+Key: (34, 3, 0)
+Energy: 0
+Key: (34, 4, 0)
+Energy: 0
+Key: (34, 5, 0)
+Energy: 0
+Key: (34, 6, 0)
+Energy: 0
+Key: (34, 7, 0)
+Energy: 0
+Key: (34, 8, 0)
+Energy: 0
+Key: (34, 9, 0)
+Energy: 0
+Key: (34, 10, 0)
+Energy: 0
+Key: (34, 11, 0)
+Energy: 0
+Key: (34, 12, 0)
+Energy: 0
+Key: (34, 13, 0)
+Energy: 0
+Key: (34, 14, 0)
+Energy: 0
+Key: (34, 15, 0)
+Energy: 0
+Key: (34, 16, 0)
+Energy: 0
+Key: (34, 17, 0)
+Energy: 0
+Key: (34, 18, 0)
+Energy: 0
+Key: (34, 19, 0)
+Energy: 0
+Key: (34, 20, 0)
+Energy: 0
+Key: (34, 21, 0)
+Energy: 0
+Key: (34, 22, 0)
+Energy: 0
+Key: (34, 23, 0)
+Energy: 0
+Key: (34, 24, 0)
+Energy: 0
+Key: (34, 25, 0)
+Energy: 0
+Key: (34, 26, 0)
+Energy: 0
+Key: (34, 27, 0)
+Energy: 0
+Key: (34, 28, 0)
+Energy: 0
+Key: (34, 29, 0)
+Energy: 0
+Key: (34, 30, 0)
+Energy: 0
+Key: (34, 31, 0)
+Energy: 0
+Key: (34, 32, 0)
+Energy: 0
+Key: (34, 33, 0)
+Energy: 0
+Key: (34, 34, 0)
+Energy: 0
+Key: (34, 35, 0)
+Energy: 0
+Key: (34, 36, 0)
+Energy: 0
+Key: (34, 37, 0)
+Energy: 0
+Key: (34, 38, 0)
+Energy: 0
+Key: (34, 39, 0)
+Energy: 0
+Key: (35, 0, 0)
+Energy: 0
+Key: (35, 1, 0)
+Energy: 0
+Key: (35, 2, 0)
+Energy: 0
+Key: (35, 3, 0)
+Energy: 0
+Key: (35, 4, 0)
+Energy: 0
+Key: (35, 5, 0)
+Energy: 0
+Key: (35, 6, 0)
+Energy: 0
+Key: (35, 7, 0)
+Energy: 0
+Key: (35, 8, 0)
+Energy: 0
+Key: (35, 9, 0)
+Energy: 0
+Key: (35, 10, 0)
+Energy: 0
+Key: (35, 11, 0)
+Energy: 0
+Key: (35, 12, 0)
+Energy: 0
+Key: (35, 13, 0)
+Energy: 0
+Key: (35, 14, 0)
+Energy: 0
+Key: (35, 15, 0)
+Energy: 0
+Key: (35, 16, 0)
+Energy: 0
+Key: (35, 17, 0)
+Energy: 0
+Key: (35, 18, 0)
+Energy: 0
+Key: (35, 19, 0)
+Energy: 0
+Key: (35, 20, 0)
+Energy: 0
+Key: (35, 21, 0)
+Energy: 0
+Key: (35, 22, 0)
+Energy: 0
+Key: (35, 23, 0)
+Energy: 0
+Key: (35, 24, 0)
+Energy: 0
+Key: (35, 25, 0)
+Energy: 0
+Key: (35, 26, 0)
+Energy: 0
+Key: (35, 27, 0)
+Energy: 0
+Key: (35, 28, 0)
+Energy: 0
+Key: (35, 29, 0)
+Energy: 0
+Key: (35, 30, 0)
+Energy: 0
+Key: (35, 31, 0)
+Energy: 0
+Key: (35, 32, 0)
+Energy: 0
+Key: (35, 33, 0)
+Energy: 0
+Key: (35, 34, 0)
+Energy: 0
+Key: (35, 35, 0)
+Energy: 0
+Key: (35, 36, 0)
+Energy: 0
+Key: (35, 37, 0)
+Energy: 0
+Key: (35, 38, 0)
+Energy: 0
+Key: (35, 39, 0)
+Energy: 0
+Key: (36, 0, 0)
+Energy: 0
+Key: (36, 1, 0)
+Energy: 0
+Key: (36, 2, 0)
+Energy: 0
+Key: (36, 3, 0)
+Energy: 0
+Key: (36, 4, 0)
+Energy: 0
+Key: (36, 5, 0)
+Energy: 0
+Key: (36, 6, 0)
+Energy: 0
+Key: (36, 7, 0)
+Energy: 0
+Key: (36, 8, 0)
+Energy: 0
+Key: (36, 9, 0)
+Energy: 0
+Key: (36, 10, 0)
+Energy: 0
+Key: (36, 11, 0)
+Energy: 0
+Key: (36, 12, 0)
+Energy: 0
+Key: (36, 13, 0)
+Energy: 0
+Key: (36, 14, 0)
+Energy: 0
+Key: (36, 15, 0)
+Energy: 0
+Key: (36, 16, 0)
+Energy: 0
+Key: (36, 17, 0)
+Energy: 0
+Key: (36, 18, 0)
+Energy: 0
+Key: (36, 19, 0)
+Energy: 0
+Key: (36, 20, 0)
+Energy: 0
+Key: (36, 21, 0)
+Energy: 0
+Key: (36, 22, 0)
+Energy: 0
+Key: (36, 23, 0)
+Energy: 0
+Key: (36, 24, 0)
+Energy: 0
+Key: (36, 25, 0)
+Energy: 0
+Key: (36, 26, 0)
+Energy: 0
+Key: (36, 27, 0)
+Energy: 0
+Key: (36, 28, 0)
+Energy: 0
+Key: (36, 29, 0)
+Energy: 0
+Key: (36, 30, 0)
+Energy: 0
+Key: (36, 31, 0)
+Energy: 0
+Key: (36, 32, 0)
+Energy: 0
+Key: (36, 33, 0)
+Energy: 0
+Key: (36, 34, 0)
+Energy: 0
+Key: (36, 35, 0)
+Energy: 0
+Key: (36, 36, 0)
+Energy: 0
+Key: (36, 37, 0)
+Energy: 0
+Key: (36, 38, 0)
+Energy: 0
+Key: (36, 39, 0)
+Energy: 0
+Key: (37, 0, 0)
+Energy: 0
+Key: (37, 1, 0)
+Energy: 0
+Key: (37, 2, 0)
+Energy: 0
+Key: (37, 3, 0)
+Energy: 0
+Key: (37, 4, 0)
+Energy: 0
+Key: (37, 5, 0)
+Energy: 0
+Key: (37, 6, 0)
+Energy: 0
+Key: (37, 7, 0)
+Energy: 0
+Key: (37, 8, 0)
+Energy: 0
+Key: (37, 9, 0)
+Energy: 0
+Key: (37, 10, 0)
+Energy: 0
+Key: (37, 11, 0)
+Energy: 0
+Key: (37, 12, 0)
+Energy: 0
+Key: (37, 13, 0)
+Energy: 0
+Key: (37, 14, 0)
+Energy: 0
+Key: (37, 15, 0)
+Energy: 0
+Key: (37, 16, 0)
+Energy: 0
+Key: (37, 17, 0)
+Energy: 0
+Key: (37, 18, 0)
+Energy: 0
+Key: (37, 19, 0)
+Energy: 0
+Key: (37, 20, 0)
+Energy: 0
+Key: (37, 21, 0)
+Energy: 0
+Key: (37, 22, 0)
+Energy: 0
+Key: (37, 23, 0)
+Energy: 0
+Key: (37, 24, 0)
+Energy: 0
+Key: (37, 25, 0)
+Energy: 0
+Key: (37, 26, 0)
+Energy: 0
+Key: (37, 27, 0)
+Energy: 0
+Key: (37, 28, 0)
+Energy: 0
+Key: (37, 29, 0)
+Energy: 0
+Key: (37, 30, 0)
+Energy: 0
+Key: (37, 31, 0)
+Energy: 0
+Key: (37, 32, 0)
+Energy: 0
+Key: (37, 33, 0)
+Energy: 0
+Key: (37, 34, 0)
+Energy: 0
+Key: (37, 35, 0)
+Energy: 0
+Key: (37, 36, 0)
+Energy: 0
+Key: (37, 37, 0)
+Energy: 0
+Key: (37, 38, 0)
+Energy: 0
+Key: (37, 39, 0)
+Energy: 0
+Key: (38, 0, 0)
+Energy: 0
+Key: (38, 1, 0)
+Energy: 0
+Key: (38, 2, 0)
+Energy: 0
+Key: (38, 3, 0)
+Energy: 0
+Key: (38, 4, 0)
+Energy: 0
+Key: (38, 5, 0)
+Energy: 0
+Key: (38, 6, 0)
+Energy: 0
+Key: (38, 7, 0)
+Energy: 0
+Key: (38, 8, 0)
+Energy: 0
+Key: (38, 9, 0)
+Energy: 0
+Key: (38, 10, 0)
+Energy: 0
+Key: (38, 11, 0)
+Energy: 0
+Key: (38, 12, 0)
+Energy: 0
+Key: (38, 13, 0)
+Energy: 0
+Key: (38, 14, 0)
+Energy: 0
+Key: (38, 15, 0)
+Energy: 0
+Key: (38, 16, 0)
+Energy: 0
+Key: (38, 17, 0)
+Energy: 0
+Key: (38, 18, 0)
+Energy: 0
+Key: (38, 19, 0)
+Energy: 0
+Key: (38, 20, 0)
+Energy: 0
+Key: (38, 21, 0)
+Energy: 0
+Key: (38, 22, 0)
+Energy: 0
+Key: (38, 23, 0)
+Energy: 0
+Key: (38, 24, 0)
+Energy: 0
+Key: (38, 25, 0)
+Energy: 0
+Key: (38, 26, 0)
+Energy: 0
+Key: (38, 27, 0)
+Energy: 0
+Key: (38, 28, 0)
+Energy: 0
+Key: (38, 29, 0)
+Energy: 0
+Key: (38, 30, 0)
+Energy: 0
+Key: (38, 31, 0)
+Energy: 0
+Key: (38, 32, 0)
+Energy: 0
+Key: (38, 33, 0)
+Energy: 0
+Key: (38, 34, 0)
+Energy: 0
+Key: (38, 35, 0)
+Energy: 0
+Key: (38, 36, 0)
+Energy: 0
+Key: (38, 37, 0)
+Energy: 0
+Key: (38, 38, 0)
+Energy: 0
+Key: (38, 39, 0)
+Energy: 0
+Key: (39, 0, 0)
+Energy: 0
+Key: (39, 1, 0)
+Energy: 0
+Key: (39, 2, 0)
+Energy: 0
+Key: (39, 3, 0)
+Energy: 0
+Key: (39, 4, 0)
+Energy: 0
+Key: (39, 5, 0)
+Energy: 0
+Key: (39, 6, 0)
+Energy: 0
+Key: (39, 7, 0)
+Energy: 0
+Key: (39, 8, 0)
+Energy: 0
+Key: (39, 9, 0)
+Energy: 0
+Key: (39, 10, 0)
+Energy: 0
+Key: (39, 11, 0)
+Energy: 0
+Key: (39, 12, 0)
+Energy: 0
+Key: (39, 13, 0)
+Energy: 0
+Key: (39, 14, 0)
+Energy: 0
+Key: (39, 15, 0)
+Energy: 0
+Key: (39, 16, 0)
+Energy: 0
+Key: (39, 17, 0)
+Energy: 0
+Key: (39, 18, 0)
+Energy: 0
+Key: (39, 19, 0)
+Energy: 0
+Key: (39, 20, 0)
+Energy: 0
+Key: (39, 21, 0)
+Energy: 0
+Key: (39, 22, 0)
+Energy: 0
+Key: (39, 23, 0)
+Energy: 0
+Key: (39, 24, 0)
+Energy: 0
+Key: (39, 25, 0)
+Energy: 0
+Key: (39, 26, 0)
+Energy: 0
+Key: (39, 27, 0)
+Energy: 0
+Key: (39, 28, 0)
+Energy: 0
+Key: (39, 29, 0)
+Energy: 0
+Key: (39, 30, 0)
+Energy: 0
+Key: (39, 31, 0)
+Energy: 0
+Key: (39, 32, 0)
+Energy: 0
+Key: (39, 33, 0)
+Energy: 0
+Key: (39, 34, 0)
+Energy: 0
+Key: (39, 35, 0)
+Energy: 0
+Key: (39, 36, 0)
+Energy: 0
+Key: (39, 37, 0)
+Energy: 0
+Key: (39, 38, 0)
+Energy: 0
+Key: (39, 39, 0)
+Energy: 0

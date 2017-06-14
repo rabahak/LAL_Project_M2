@@ -1,0 +1,34 @@
+***********************************************
+* Utilisation :
+* les logical ROOTSYS doit etre defini correctement, sur atlas2 Root 4.04/02
+use root # sur mac c'est deja fait
+* copier le fichier tar
+cp /users/atlas/rousseau/stageinfo/exo.tar .
+tar -xvf exo.tar
+cd exo
+# Sur atlas2, j'ai du remplacer le fichier Makefile.arch qui depend de l'architecture (dans le tar file il y a la version mac): 
+cp $ROOTSYS/test/Makefile.arch .
+# Sur atlas2 j'ai du faire
+setenv LD_LIBRARY_PATH .:$LD_LIBRARY_PATH
+
+# ... pour que la librairie libEvent.so soit trouvee lors de l'execution
+# (sur le mac c'est pas necessaire)
+
+make # compile et cree l'executable Event
+./Event # execute, cree le fichier event.root
+root # lance root
+.x ana.C # simple plot
+
+**********************************************
+Fichiers:
+ - README : ce fichier
+ - Event.h : l' event record, ou les donnees membre doivent etre ajoutees (l'event record est directement lisible dans root)
+- Event.cxx : seule l'initialisation des donnees membres doit etre ajoutee dans la methode build()
+- MainEvent.cxx : le fichier principal qui boucle sur les evenements et cree le fichier event.root. Aucune modification necessaire (sauf peut etre le nombre d'evenement)
+- simulate.cxx : simule l'evenement et stocke l'information correspondante dans Event
+- reconstruct.cxx : reconstruit l'evenement et stocke l'information correspondnate dans evenement
+-ana.C macro root pour dessiner les distributions et les ajuster
+
+Les exercices se traduisent par l'ecriture de fonction simulate et reconstruct de plus en plus complexes. L'event record Event sera etendu pour contenir de plus d'inforation simulee et reconstruite. La macro ana.C sera etendue (ou d'autres ecrites pour analyser) les donnees de plus en plus complexe.
+
+*************************************************
